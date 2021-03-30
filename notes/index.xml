@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Notes on Karina Hu</title>
-    <link>http://example.org/notes/</link>
+    <link>http://karinahu.github.io/notes/</link>
     <description>Recent content in Notes on Karina Hu</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://example.org/notes/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="http://karinahu.github.io/notes/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Search Results</title>
-      <link>http://example.org/search/</link>
+      <link>http://karinahu.github.io/search/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/search/</guid>
+      <guid>http://karinahu.github.io/search/</guid>
       <description>This file exists solely to respond to /search URL with the related search layout template.
 No content shown here is rendered, all content is based in the template layouts/page/search.html
 Setting a very low sitemap priority will tell search engines this is not important content.
